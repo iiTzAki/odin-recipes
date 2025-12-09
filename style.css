@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#recipes-line {
+    color: rgb(122, 119, 119);
+    margin-bottom: 50px;
+}
+
+.navigation-container {
+    display: flex;
+    justify-content: center;
+}
+
+#box-1, 
+#box-2,
+#box-3 {
+    padding-bottom: 30px;
+    margin: auto;
+    text-align: center;
+    padding: 20px 40px;
+    border: 1px solid lightgray;
+}
+
+#image-1 {
+    display: flex;
+    margin-top: 40px;
+    height: 200px
+}
